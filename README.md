@@ -129,3 +129,5 @@ supermom-parenting-guide/
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — 可自由转载、改编、商用，需署名。
 
 Released under CC BY 4.0: free to share and adapt, including commercially, with attribution.
+
+© 2026 SuperMom Skills
